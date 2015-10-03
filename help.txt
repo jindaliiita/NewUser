@@ -1,5 +1,13 @@
 
 
 
+<<<<<<< HEAD
 hail git hub1sfsfsfsfss anas !!!!!
+=======
+B
+B
+A
+A
+hail git hub1sfsfsfsfss jindal faad banda !!!!!
+>>>>>>> 471894b1da06511812ac7359cade28f02db1aad7
 
